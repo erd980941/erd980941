@@ -21,12 +21,7 @@ Kırklareli Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://i.pinimg.com/originals/70/d6/b3/70d6b3aaf2857dce05601505b8ca7db0.jpg" align="center" height="200" width="" />
-</div>  
 
 
 </td><td valign="top" width="50%">
