@@ -19,7 +19,7 @@ Kırklareli Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum
 <table><tr><td valign="top" width="50%">
 
 <div align="center">
-<iframe src="https://giphy.com/embed/K7StRcr7hagJpXROmb" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bombaysoftwares-developer-software-engineer-full-stack-K7StRcr7hagJpXROmb">via GIPHY</a>
+<iframe src="https://giphy.com/embed/K7StRcr7hagJpXROmb" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>  
 
 
