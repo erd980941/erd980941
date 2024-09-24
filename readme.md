@@ -1,4 +1,4 @@
-## Yazılım Dünyasına Yolculuğum 💻  
+## My Journey into the World of Software 💻  
   
 
 <a href="https://github.com/erd980941" target="_blank">
@@ -14,11 +14,12 @@
 
 
 
-### Merhaba, Ben Erdal  
-Kırklareli Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum ve yaklaşık 2 yıldır PHP Developer olarak kendimi geliştiriyorum. Bu süre zarfında özellikle Laravel ve Yii2 frameworklerinde projeler geliştirdim ve MySQL veritabanı konusunda tecrübe kazandım. Docker containerlarını etkin şekilde kullanarak projelerimi yönetiyor, Git ve GitHub ile versiyon kontrolü sağlıyorum. Ayrıca, responsive tasarımlar yapabilmekteyim ve JavaScript bilgisine sahibim  
+### Hello 👋 I'm Erdal!  
+I graduated from Kırklareli University with a degree in Computer Programming, and I have been developing myself as a PHP Developer for approximately 2 years. During this time, I have worked on projects mainly using the Laravel and Yii2 frameworks, and I have gained experience in MySQL databases. I effectively manage my projects using Docker containers and version control with Git and GitHub. Additionally, I am capable of creating responsive designs and have knowledge of JavaScript. 👨‍💻  
   
 
 <br/>  
+
 
 
 
